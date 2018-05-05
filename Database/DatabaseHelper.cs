@@ -7,7 +7,7 @@ namespace SearchBotUpdated.Database
 {
     public class DatabaseHelper
     {// Database connection settings.
-        private const String SERVER = "chatbotprototype.ddns.net";
+        private const String SERVER = "localhost";
         private const String PORT = "5432";
         private const String USER = "postgres";
         private const String PASSWORD = "";
