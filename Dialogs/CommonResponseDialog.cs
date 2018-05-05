@@ -23,7 +23,7 @@ namespace SearchBotUpdated.Dialogs
 
              String result = db.get();
             //    await context.PostAsync(result);
-            db.get();
+
             // This line instantiates a Random class object
             Random numberGenerator = new Random();
 
