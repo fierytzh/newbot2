@@ -77,7 +77,7 @@ namespace SearchBotUpdated.Database
                 // Fill results to music list.
                 while (dr.Read())
                 {
-
+                    result = "ok can";
                    // result++;
                 }
                 
