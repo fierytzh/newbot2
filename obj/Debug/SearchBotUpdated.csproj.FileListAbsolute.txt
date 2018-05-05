@@ -1,0 +1,125 @@
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Bot Application1.dll.config
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Bot Application1.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Bot Application1.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Autofac.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\BestMatchDialog.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Chronic.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Connector.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Newtonsoft.Json.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.Net.Http.Formatting.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.WebHost.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Autofac.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Connector.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\Newtonsoft.Json.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.Net.Http.Formatting.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.WebHost.xml
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\obj\Debug\SearchBotUpdated.csprojResolveAssemblyReference.cache
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\obj\Debug\Bot Application1.dll
+C:\Users\Jia Hong\Desktop\SearchBotUpdated\SearchBotUpdated\obj\Debug\Bot Application1.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Bot Application1.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Bot Application1.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Autofac.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\BestMatchDialog.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Chronic.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Connector.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Newtonsoft.Json.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Net.Http.Formatting.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.WebHost.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Autofac.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Bot.Connector.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Newtonsoft.Json.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Net.Http.Formatting.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Web.Http.WebHost.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\obj\Debug\SearchBotUpdated.csprojResolveAssemblyReference.cache
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\obj\Debug\SearchBotUpdated.csproj.CoreCompileInputs.cache
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\obj\Debug\Bot Application1.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\obj\Debug\Bot Application1.pdb
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Bot Application1.dll.config
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Npgsql.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\Npgsql.xml
+C:\Users\tan.ZHIHUI\Documents\SearchBotUpdated\SearchBotUpdated\bin\System.Threading.Tasks.Extensions.xml
