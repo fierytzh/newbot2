@@ -20,19 +20,10 @@ namespace SearchBotUpdated.Dialogs
         public async Task HandleGreeting(IDialogContext context, string message)
         {
             DatabaseHelper db = new DatabaseHelper();
-            db.openConnection();
-            
-            NpgsqlCommand command = new NpgsqlCommand("SELECT * FROM public.company ORDER BY id ASC", db.connection);
 
-            //// Prepare the command.
-            command.Prepare();
-
-            //// Execute SQL command.
-            //NpgsqlDataReader dr = command.ExecuteReader();
-            db.closeConnection();
-            //  String result = db.get();
+             String result = db.get();
             //    await context.PostAsync(result);
-            //db.get();
+            db.get();
             // This line instantiates a Random class object
             Random numberGenerator = new Random();
 
@@ -45,13 +36,13 @@ namespace SearchBotUpdated.Dialogs
                 switch (responseIndex)
                 {
                     case 1:
-                        await context.PostAsync("gd");
+                        await context.PostAsync(result);
                         break;
                     case 2:
-                        await context.PostAsync("hi");
+                        await context.PostAsync(result);
                         break;
                     default:
-                        await context.PostAsync("abc");
+                        await context.PostAsync(result);
                         break;
                 }
                 // This line suspends the Dialog and will be continued from where it left off if a new input message from the user is passed to this Dialog.
