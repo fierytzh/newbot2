@@ -21,7 +21,7 @@ namespace SearchBotUpdated.Dialogs
         {
             DatabaseHelper db = new DatabaseHelper();
 
-             String result = db.get();
+             int result = db.get();
             //    await context.PostAsync(result);
 
             // This line instantiates a Random class object
@@ -36,13 +36,13 @@ namespace SearchBotUpdated.Dialogs
                 switch (responseIndex)
                 {
                     case 1:
-                        await context.PostAsync(result);
+                        await context.PostAsync(result.ToString());
                         break;
                     case 2:
-                        await context.PostAsync(result);
+                        await context.PostAsync(result.ToString());
                         break;
                     default:
-                        await context.PostAsync(result);
+                        await context.PostAsync(result.ToString());
                         break;
                 }
                 // This line suspends the Dialog and will be continued from where it left off if a new input message from the user is passed to this Dialog.
