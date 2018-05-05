@@ -57,10 +57,10 @@ namespace SearchBotUpdated.Database
             //MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK,
             //    MessageBoxIcon.Error);
         }
-        public string get()
+        public int get()
         {
             openConnection();
-            string result = "ok";
+            int result = 0;
 
             try
             {
@@ -77,7 +77,7 @@ namespace SearchBotUpdated.Database
                 // Fill results to music list.
                 while (dr.Read())
                 {
-                    result = "ok can";
+                    result = 1;
                    // result++;
                 }
                 
@@ -86,7 +86,7 @@ namespace SearchBotUpdated.Database
             catch (NpgsqlException ex)
             {
                 showError(ex);
-                result = "error";
+                result = 2;
 
             }
 
