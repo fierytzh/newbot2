@@ -36,13 +36,13 @@ namespace SearchBotUpdated.Dialogs
                 switch (responseIndex)
                 {
                     case 1:
-                        await context.PostAsync(result.ToString());
+                        await context.PostAsync("LOL1"+result.ToString());
                         break;
                     case 2:
-                        await context.PostAsync(result.ToString());
+                        await context.PostAsync("LOL2" + result.ToString());
                         break;
                     default:
-                        await context.PostAsync(result.ToString());
+                        await context.PostAsync("LOL" + result.ToString());
                         break;
                 }
                 // This line suspends the Dialog and will be continued from where it left off if a new input message from the user is passed to this Dialog.
